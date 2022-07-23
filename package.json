@@ -18,7 +18,9 @@
     "author": "Newgot",
     "license": "jISC",
     "dependencies": {
-        "axios": "^0.27.2"
+        "axios": "^0.27.2",
+        "chalk": "^5.0.1",
+        "dedent-js": "^1.0.1"
     },
     "devDependencies": {
         "gulp": "^4.0.2"
